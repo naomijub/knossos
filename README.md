@@ -1,4 +1,4 @@
-[![Latest Version](https://img.shields.io/crates/v/knossos)](https://crates.io/crates/knossos)
+[![Latest Version](https://img.shields.io/crates/v/bevy_knossos)](https://crates.io/crates/bevy_knossos)
 [![License:Apache](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Build Status](https://github.com/naomijub/bevy_knossos/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/naomijub/bevy_knossos/actions/workflows/build.yml)
 [![Coverage Status](https://coveralls.io/repos/github/naomijub/bevy_knossos/badge.svg)](https://coveralls.io/github/naomijub/bevy_knossos)
