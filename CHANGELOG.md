@@ -7,6 +7,11 @@ and this project adheres to [Conventional Commits](https://www.conventionalcommi
 
 ## [Unreleased]
 
+## [0.6.2] - 2025-02-28
+
+### Updated
+- Cargo update and bevy `0.15.3`
+
 ## [0.6.1] - 2025-02-11
 
 ### Added
